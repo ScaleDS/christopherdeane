@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="225px" height="48px" viewBox="0 0 225 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>logo/logoPrimary</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo/logoPrimary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="N" transform="translate(175.571429, 0.000000)">
+            <polygon id="Rectangle" fill="#8CDCFF" points="32.4285714 0 48.4317379 0 48.4317379 48 32.4285714 48"></polygon>
+            <polygon id="Triangle" fill="#40C4FF" points="0.428571429 0 48.4285714 48 0.428571429 48"></polygon>
+        </g>
+        <g id="I" transform="translate(155.314286, 0.000000)" fill="#FDD835">
+            <polygon id="Rectangle" points="0.685714286 0 16.6888808 0 16.6888808 48 0.685714286 48"></polygon>
+        </g>
+        <g id="Z" transform="translate(103.285714, 0.000000)">
+            <polygon id="Rectangle" fill="#66F0AD" points="0.714285714 0 48.7142857 0 48.7142857 16 0.714285714 16"></polygon>
+            <polygon id="Triangle" fill="#00E676" points="48.7137525 0 48.7137525 48 0.714285714 48"></polygon>
+        </g>
+        <g id="E" transform="translate(51.028571, 0.000000)">
+            <polygon id="Rectangle" fill="#536DFE" points="0.971428571 0 16.9714286 0 16.9714286 48 0.971428571 48"></polygon>
+            <polygon id="Rectangle" fill="#758AFE" points="16.9714286 0 48.9714286 0 48.9714286 16 16.9714286 16"></polygon>
+            <polygon id="Rectangle" fill="#98A7FE" points="16.9714286 16 48.967728 16 48.967728 32 16.9714286 32"></polygon>
+            <polygon id="Rectangle" fill="#BAC5FF" points="16.9714286 32 48.9714286 32 48.9714286 48 16.9714286 48"></polygon>
+        </g>
+        <g id="D">
+            <polygon id="Rectangle" fill="#FF5252" points="0 0 24 0 24 48 0 48"></polygon>
+            <path d="M24,48 C37.254834,48 48,37.254834 48,24 C48,10.745166 37.254834,0 24,0 C24.0784993,10.6666667 24.0784993,37.3333333 24,48 Z" id="Oval" fill="#FF9797"></path>
+        </g>
+    </g>
+</svg>
