@@ -995,7 +995,7 @@ label {
 }
 
 .hero-content {
-  z-index: 0;
+  z-index: 1;
   max-width: 55%;
   align-self: flex-start;
   position: relative;
@@ -1023,7 +1023,6 @@ label {
   bottom: 0%;
   left: 0%;
   right: 0%;
-  z-index: 0;
 }
 
 .hero-page-list {
@@ -1562,7 +1561,6 @@ label {
 
   .hero-content {
     max-width: 75%;
-    z-index: 1;
   }
 
   .scale-image.image-scroll {
@@ -1961,6 +1959,7 @@ label {
   .hero-middle {
     margin-top: -80px;
     margin-left: -108px;
+    z-index: 0;
   }
 
   .scale-left {
