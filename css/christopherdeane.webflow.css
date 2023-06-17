@@ -935,7 +935,6 @@ label {
 
 .section.section__hero {
   z-index: 9999;
-  height: 880px;
   justify-content: center;
   align-items: center;
   padding-top: 112px;
@@ -1555,10 +1554,6 @@ label {
     grid-template-rows: auto auto auto;
   }
 
-  .section.section__hero {
-    height: 700px;
-  }
-
   .hero-content {
     max-width: 75%;
   }
@@ -1755,7 +1750,6 @@ label {
   }
 
   .section.section__hero {
-    height: 600px;
     padding-top: 0;
   }
 
