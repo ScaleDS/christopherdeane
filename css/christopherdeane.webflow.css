@@ -1,3 +1,10 @@
+:root {
+  --sc-border-radius-l: 16px;
+  --sc-border-radius-m: 12px;
+  --sc-border-radius-s: 8px;
+}
+
+
 .w-layout-grid {
   grid-row-gap: 16px;
   grid-column-gap: 16px;
@@ -1022,6 +1029,7 @@ label {
   bottom: 0%;
   left: 0%;
   right: 0%;
+  border-radius: var(--sc-border-radius-l);
 }
 
 .hero-page-list {
@@ -1082,6 +1090,7 @@ label {
   background-position: 50%;
   background-size: cover;
   position: relative;
+  border-radius: var(--sc-border-radius-m);
 }
 
 .scale-image.image-rotate {
@@ -1090,6 +1099,7 @@ label {
 
 .scale-image.image-scroll {
   background-image: url('../images/cd-scale-hero-2023.jpg');
+  border-radius: var(--sc-border-radius-m);
 }
 
 .scale-grid {
@@ -1112,12 +1122,13 @@ label {
 }
 
 .youtube-image {
-  background-image: url('../images/15-Figma-and-After-Effects---Animated-Bell-Icon-for-Lottie---Poster---960.jpg');
+  background-image: url('../images/FDS-03-Semantic-Color-Variables-Poster.jpg');
   background-position: 100% 0;
   background-size: cover;
   margin-bottom: 24px;
   padding-top: 56%;
   position: relative;
+  border-radius: var(--sc-border-radius-m);
 }
 
 .education-right {
@@ -1149,12 +1160,13 @@ label {
 }
 
 .medium-image {
-  background-image: url('../images/cd-medium-hero-2020.jpg');
+  background-image: url('../images/SC-What-is-a-design-system-DSAASTAHP.jpg');
   background-position: 50%;
   background-size: cover;
   margin-bottom: 24px;
   padding-top: 56%;
   position: relative;
+  border-radius: var(--sc-border-radius-m);
 }
 
 .cba-labsapp__grid {
@@ -1214,7 +1226,8 @@ label {
 .snooze-bb__video {
   width: 100%;
   height: auto;
-  padding-top: 67%;
+  padding-top: 68%;
+  border-radius: var(--sc-border-radius-m);
 }
 
 .abl__grid {
@@ -1243,6 +1256,7 @@ label {
   padding-top: 67%;
   position: relative;
   overflow: hidden;
+  border-radius: var(--sc-border-radius-m);
 }
 
 .abl-image2 {
@@ -1310,6 +1324,7 @@ label {
   width: 100%;
   height: auto;
   padding-top: 56%;
+  border-radius: var(--sc-border-radius-m);
 }
 
 .mq-website__content {
@@ -1498,6 +1513,7 @@ label {
   padding-top: 67%;
   position: relative;
   overflow: hidden;
+  border-radius: var(--sc-border-radius-m);
 }
 
 .bb__content {
